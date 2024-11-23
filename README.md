@@ -2,7 +2,7 @@
 
 **we.book** is an open-source project aimed at creating the first agentic AI capable of booking flights seamlessly. Built using cutting-edge open-source technologies, this project combines natural language understanding (NLU), API integration, and task automation to revolutionize how users plan and book their travel.
 
-This repository is licensed under the MIT License, making it suitable for both open-source collaboration and potential commercial applications.
+This repository is licensed under the MIT License for non-commercial use. For commercial use, please contact ash.marie.parker@gmail.com for licensing terms.
 
 ---
 
