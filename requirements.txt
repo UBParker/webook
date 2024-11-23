@@ -1,0 +1,42 @@
+# FastAPI for backend development
+fastapi==0.100.0
+
+# Uvicorn for running the FastAPI server
+uvicorn[standard]==0.22.0
+
+# Rasa for Natural Language Understanding (alternative: spaCy + Transformers)
+rasa==3.5.0
+
+# spaCy for NLU (if not using Rasa)
+spacy==3.6.1
+
+# Transformers for advanced NLU with spaCy (optional if Rasa is used)
+transformers==4.35.0
+
+# Flight API Integration
+requests==2.31.0
+httpx==0.25.0  # Optional: for async API requests
+
+# Celery for task automation
+celery==5.3.4
+
+# Redis as a message broker for Celery
+redis==5.0.9
+
+# PostgreSQL support via SQLAlchemy and asyncpg
+sqlalchemy==2.0.21
+asyncpg==0.29.0
+
+# Pydantic for data validation
+pydantic==2.3.0
+
+# Optional: Streamlit for a simple web-based frontend (for later development phases)
+streamlit==1.25.0
+
+# Security and Authentication
+python-dotenv==1.0.0  # For environment variables
+authlib==1.3.0
+
+# Testing frameworks
+pytest==7.5.1
+pytest-asyncio==0.21.0
