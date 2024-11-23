@@ -54,7 +54,7 @@ This repository is licensed under the MIT License for non-commercial use. For co
 1. Clone the repository:
    ```
    bash
-   git clone https://github.com/your-username/we.book.git
+   git clone https://github.com/UBParker/webook.git
    cd we.book
    ```
 2. Install dependencies:
