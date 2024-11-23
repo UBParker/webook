@@ -59,6 +59,7 @@ This repository is licensed under the MIT License for non-commercial use. For co
    ```
 2. Install dependencies:
    ```
+   pip install rasa
    pip install -r requirements.txt
    
    ```
